@@ -167,4 +167,8 @@ https://gist.github.com/SamPandey001/d17a1512da8380b8a2c5f2cf7c80b0d8/raw
 https://gist.github.com/SamPandey001/3d3c8faef08a33751186dcb56d0790b9/raw
 ```
 
+<H4 align="center"> Fd-plugin </H1>
 
+```
+https://gist.github.com/jackser4597/7939872c967a3f542b22e4598efb4850/raw
+```
